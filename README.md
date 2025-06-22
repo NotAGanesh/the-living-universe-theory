@@ -31,17 +31,6 @@ This theory is not intended to redefine biology, but to invite philosophical and
 - Is constant motion and interaction enough to qualify as a form of life?
 - How do systems theory, physics, and philosophy intersect in this idea?
 
----
-
-## 🚀 Possible Applications (Future)
-
-- Visualization or simulation of a "living universe" using code or physics engines  
-- Connection with Gaia theory, panpsychism, or systems theory  
-- Discussions in science philosophy, cosmology, or futurism  
-- AI or neural networks modeled after universal behavior  
-
----
-
 ## 🧑‍💻 About the Creator
 
 This theory was proposed by me and aspiring software engineer interested in combining logic, science, and philosophy. It reflects a curiosity-driven attempt to understand the universe from both a technical and abstract perspective.
