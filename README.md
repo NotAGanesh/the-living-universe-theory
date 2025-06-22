@@ -39,7 +39,7 @@ This theory was proposed by me and aspiring software engineer interested in comb
 
 ## 📬 Feedback
 
-Feel free to open an [Issue](#) or start a [Discussion](#) if you have thoughts, feedback, or ideas to build on this theory. Collaboration, respectful critique, and open thinking are welcome.
+Feel free to open an Issue or start a Discussion if you have thoughts, feedback, or ideas to build on this theory. Collaboration, respectful critique, and open thinking are welcome.
 
 ---
 
